@@ -54,3 +54,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#api keys
+firebaseConfig.js
