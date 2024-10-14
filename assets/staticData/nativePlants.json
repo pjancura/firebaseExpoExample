@@ -219,7 +219,7 @@
         "crataegusSpp": {
             "scientificName": "Crataegus spp.",
             "commonName": "Hawthorn",
-            "bloomStart": "april",
+            "bloomStart": "April",
             "bloomEnd": "May",
             "lifespan": "perennial",
             "form": "shrub, tree",
@@ -326,7 +326,7 @@
         },
         "eutrochiumMaculatum": {
             "scientificName": "Eutrochium maculatum",
-            "commonName": "Spootted Joe Pye weed",
+            "commonName": "Spotted Joe Pye weed",
             "bloomStart": "July",
             "bloomEnd": "September",
             "lifespan": "perennial",
@@ -345,7 +345,7 @@
         "gentianaAndrewsii": {
             "scientificName": "Gentiana andrewsii",
             "commonName": "Closed bottle gentian",
-            "bloomStart": "Augsut",
+            "bloomStart": "August",
             "bloomEnd": "October",
             "lifespan": "perennial",
             "form": "forb",
@@ -688,7 +688,7 @@
             "scientificName": "Schizachyrium scoparium",
             "commonName": "Little bluestem",
             "bloomStart": "August",
-            "bloomEnd": "Suptember",
+            "bloomEnd": "September",
             "lifespan": "perennial",
             "form": "grass",
             "sunPreference": "full sun, partial sun",
